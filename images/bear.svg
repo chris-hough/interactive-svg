@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Bear effects</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link href="css/main.css" rel="stylesheet">
-</head>
-<body>
-  <svg class="bear" width="256" height="256" viewBox="0 0 256 256">
+<svg width="256" height="256" viewBox="0 0 256 256">
   <g id="left-ear">
     <circle cx="43.9" cy="49.2" r="34.6" fill="#673200"/>
     <circle cx="46.4" cy="58" r="14.8" fill="#ffaaca"/>
@@ -33,6 +24,3 @@
     <circle id="_Ellipse_3" cx="128" cy="138.1" r="13" fill="#ffaaca" data-name="&lt;Ellipse&gt;"/>
   </g>
 </svg>
-
-</body>
-</html>
